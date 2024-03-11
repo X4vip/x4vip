@@ -8,5 +8,6 @@ Coming from a Front Office Manager role in hospitality, I bring leadership and o
 - 💬 Ask me about anything you need to know about me.
 - 📫 How to reach me: xaviparra85@gmail.com
 - 😄 Pronouns: he/him
-  
+
+  ![X4vip's GitHub stats](https://github-readme-stats.vercel.app/api?username=X4vip&show_icons=true&theme=radical)
 
